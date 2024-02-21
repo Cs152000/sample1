@@ -1,0 +1,30 @@
+body{
+    background-color:blue;
+}
+#navbar{
+    background:rgb(252, 9, 94);
+}
+#navbar ul li {
+    margin: auto 1rem;
+    font-size:1.5rem;
+}
+.s-around{
+    justify-content:space-around;
+}
+.left-nav{
+    margin-right:auto ;
+    color:white;
+}
+.list{
+    list-style-type:none;
+}
+
+.flex{
+    display:flex;
+}
+.t-white{
+    color:white;
+}
+.roboto{
+    font-family:roboto;
+}
